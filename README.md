@@ -63,6 +63,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janiyaNIMA&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=janiyaNIMA)](https://github.com/janiyaNIMA/github-readme-stats)
 
 ---
 
