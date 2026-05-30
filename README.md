@@ -5,7 +5,7 @@
 ### A Passionate Full-Stack & Web Developer from Sri Lanka
 
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=janiyanima)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=janiyaNIMA)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -61,7 +61,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janiyanima&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=janiyaNIMA&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
 ---
